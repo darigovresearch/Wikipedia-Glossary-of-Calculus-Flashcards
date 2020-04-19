@@ -1,6 +1,3 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="abel&#39;s_test" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Abel%27s_test" title="Abel&#39;s test">Abel's test</a></dfn></dt>
 <dd class="glossary">A method of testing for the <a href="/wiki/Convergent_series" title="Convergent series">convergence</a> of an <a href="/wiki/Series_(mathematics)" title="Series (mathematics)">infinite series</a>.</dd>
 <dt class="glossary" id="absolute_convergence" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Absolute_convergence" title="Absolute convergence">Absolute convergence</a></dfn></dt>
@@ -175,11 +172,6 @@
 
 <dt class="glossary" id="average_rate_of_change" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Rate_(mathematics)#rate_of_change" title="Rate (mathematics)">Average rate of change</a></dfn></dt>
 <dd class="glossary"></dd>
-
-</dl>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="binomial_coefficient" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Binomial_coefficient" title="Binomial coefficient">Binomial coefficient</a></dfn></dt>
 <dd class="glossary">Any of the positive <a href="/wiki/Integer" title="Integer">integers</a> that occurs as a <a href="/wiki/Coefficient" title="Coefficient">coefficient</a> in the <a href="/wiki/Binomial_theorem" title="Binomial theorem">binomial theorem</a> is a <b>binomial coefficient</b>. Commonly, a binomial coefficient is indexed by a pair of integers <span class="texhtml"><i>n</i> ≥ <i>k</i> ≥ 0</span> and is written <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\tbinom {n}{k}}.}">
   <semantics>
@@ -281,11 +273,6 @@
 Sometimes, if <i>f</i>(<i>x</i>) ≤ <i>A</i> for all <i>x</i> in <i>X</i>, then the function is said to be <b>bounded above</b> by <i>A</i>. On the other hand, if <i>f</i>(<i>x</i>) ≥ <i>B</i> for all <i>x</i> in <i>X</i>, then the function is said to be <b>bounded below</b> by <i>B</i>.</dd>
 <dt class="glossary" id="bounded_sequence" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Bounded_function#bounded_sequence" title="Bounded function">Bounded sequence</a></dfn></dt>
 <dd class="glossary"> .</dd>
-
-
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="calculus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Calculus" title="Calculus">Calculus</a></dfn></dt>
 <dd class="glossary">(From <a href="/wiki/Latin" title="Latin">Latin</a> <i>calculus</i>, literally 'small pebble', used for counting and calculations, as on an <a href="/wiki/Abacus" title="Abacus">abacus</a>)<sup id="cite_ref-oxdic_9-0" class="reference"><a href="#cite_note-oxdic-9">&#91;8&#93;</a></sup> is the <a href="/wiki/Mathematics" title="Mathematics">mathematical</a> study of continuous change, in the same way that <a href="/wiki/Geometry" title="Geometry">geometry</a> is the study of shape and <a href="/wiki/Algebra" title="Algebra">algebra</a> is the study of generalizations of <a href="/wiki/Arithmetic_operations" class="mw-redirect" title="Arithmetic operations">arithmetic operations</a>.</dd>
 <dt class="glossary" id="cavalieri&#39;s_principle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Cavalieri%27s_principle" title="Cavalieri&#39;s principle">Cavalieri's principle</a></dfn></dt>
@@ -895,10 +882,6 @@ Any series that is not convergent is said to be <a href="/wiki/Divergent_series"
 <dt class="glossary" id="curve_sketching" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Curve_sketching" title="Curve sketching">Curve sketching</a></dfn></dt>
 <dd class="glossary">In <a href="/wiki/Geometry" title="Geometry">geometry</a>, <b>curve sketching</b> (or <b>curve tracing</b>) includes techniques that can be used to produce a rough idea of overall shape of a <a href="/wiki/Plane_curve" title="Plane curve">plane curve</a> given its equation without computing the large numbers of points required for a detailed plot. It is an application of the theory of curves to find their main features. Here input is an equation.
  In <a href="/wiki/Digital_geometry" title="Digital geometry">digital geometry</a> it is a method of drawing a curve pixel by pixel. Here input is an array ( digital image).</dd>
-
-</dl>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 <dt class="glossary" id="damped_sine_wave" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Damped_sine_wave" title="Damped sine wave">Damped sine wave</a></dfn></dt>
 <dd class="glossary">Is a <a href="/wiki/Sine_wave" title="Sine wave">sinusoidal function</a> whose amplitude approaches zero as time increases.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;29&#93;</a></sup></dd>
 <dt class="glossary" id="degree_of_a_polynomial" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Degree_of_a_polynomial" title="Degree of a polynomial">Degree of a polynomial</a></dfn></dt>
@@ -1219,11 +1202,6 @@ converges.</dd>
 <dd class="glossary">In <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, the <b>dot product</b> or <b>scalar product</b><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;note 1&#93;</a></sup> is an <a href="/wiki/Algebraic_operation" title="Algebraic operation">algebraic operation</a> that takes two equal-length sequences of numbers (usually <a href="/wiki/Coordinate_vector" title="Coordinate vector">coordinate vectors</a>) and returns a single number. In <a href="/wiki/Euclidean_geometry" title="Euclidean geometry">Euclidean geometry</a>, the dot product of the <a href="/wiki/Cartesian_coordinates" class="mw-redirect" title="Cartesian coordinates">Cartesian coordinates</a> of two <a href="/wiki/Vector_(mathematics_and_physics)" title="Vector (mathematics and physics)">vectors</a> is widely used and often called "the" <b>inner product</b> (or rarely <b>projection product</b>) of Euclidean space even though it is not the only inner product that can be defined on Euclidean space; see also <a href="/wiki/Inner_product_space" title="Inner product space">inner product space</a>.</dd>
 <dt class="glossary" id="double_integral" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Double_integral" class="mw-redirect" title="Double integral">Double integral</a></dfn></dt>
 <dd class="glossary">The <b>multiple integral</b> is a <a href="/wiki/Definite_integral" class="mw-redirect" title="Definite integral">definite integral</a> of a <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a> of more than one real <a href="/wiki/Variable_(mathematics)" title="Variable (mathematics)">variable</a>, for example, <span class="texhtml"><i>f</i>(<i>x</i>, <i>y</i>)</span> or <span class="texhtml"><i>f</i>(<i>x</i>, <i>y</i>, <i>z</i>)</span>. Integrals of a function of two variables over a region in <span class="texhtml"><b>R</b><sup>2</sup></span> are called <a href="/wiki/Double_integrals" class="mw-redirect" title="Double integrals">double integrals</a>, and integrals of a function of three variables over a region of <span class="texhtml"><b>R</b><sup>3</sup></span> are called <a href="/wiki/Triple_integrals" class="mw-redirect" title="Triple integrals">triple integrals</a>.<sup id="cite_ref-Stewart_35-0" class="reference"><a href="#cite_note-Stewart-35">&#91;33&#93;</a></sup></dd>
-
-</dl>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="e_(mathematical_constant)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/E_(mathematical_constant)" title="E (mathematical constant)">e (mathematical constant)</a></dfn></dt>
 <dd class="glossary">The number <b><span class="texhtml mvar" style="font-style:italic;">e</span></b> is a <a href="/wiki/Mathematical_constant" title="Mathematical constant">mathematical constant</a> that is the base of the <a href="/wiki/Natural_logarithm" title="Natural logarithm">natural logarithm</a>: the unique number whose natural logarithm is equal to one. It is approximately equal to <b>2.71828</b>,<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;34&#93;</a></sup> and is the <a href="/wiki/Limit_of_a_sequence" title="Limit of a sequence">limit</a> of <span class="texhtml">(1 + 1/<i>n</i>)<sup><i>n</i></sup></span> as <span class="texhtml mvar" style="font-style:italic;">n</span> approaches <a href="/wiki/Infinity" title="Infinity">infinity</a>, an expression that arises in the study of <a href="/wiki/Compound_interest" title="Compound interest">compound interest</a>. It can also be calculated as the sum of the infinite <a href="/wiki/Series_(mathematics)" title="Series (mathematics)">series</a><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;35&#93;</a></sup>
 
@@ -1673,11 +1651,6 @@ The extreme value theorem enriches the boundedness theorem by saying that not on
 <dd class="glossary">In <a href="/wiki/Mathematical_analysis" title="Mathematical analysis">mathematical analysis</a>, the <b>maxima and minima</b> (the respective plurals of <b>maximum</b> and <b>minimum</b>) of a <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a>, known collectively as <b>extrema</b> (the plural of <b>extremum</b>), are the largest and smallest value of the function, either within a given range (the <b>local</b> or <b>relative</b> extrema) or on the entire <a href="/wiki/Domain_of_a_function" title="Domain of a function">domain of a function</a> (the <b>global</b> or <b>absolute</b> extrema).<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;37&#93;</a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;38&#93;</a></sup><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;39&#93;</a></sup> <a href="/wiki/Pierre_de_Fermat" title="Pierre de Fermat">Pierre de Fermat</a> was one of the first mathematicians to propose a general technique, <a href="/wiki/Adequality" title="Adequality">adequality</a>, for finding the maxima and minima of functions.
 
 As defined in <a href="/wiki/Set_theory" title="Set theory">set theory</a>, the maximum and minimum of a <a href="/wiki/Set_(mathematics)" title="Set (mathematics)">set</a> are the <a href="/wiki/Greatest_and_least_elements" title="Greatest and least elements">greatest and least elements</a> in the set, respectively. Unbounded infinite sets, such as the set of <a href="/wiki/Real_number" title="Real number">real numbers</a>, have no minimum or maximum.</dd>
-
-
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="faà_di_bruno&#39;s_formula" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Fa%C3%A0_di_Bruno%27s_formula" title="Faà di Bruno&#39;s formula">Faà di Bruno's formula</a></dfn></dt>
 <dd class="glossary">Is an identity in <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> generalizing the <a href="/wiki/Chain_rule" title="Chain rule">chain rule</a> to higher derivatives, named after <a href="/wiki/Francesco_Fa%C3%A0_di_Bruno" title="Francesco Faà di Bruno">Francesco&#32;Faà di Bruno</a>&#160;(<a href="#CITEREFFaà_di_Bruno1855">1855</a>, <a href="#CITEREFFaà_di_Bruno1857">1857</a>), though he was not the first to state or prove the formula. In 1800, more than 50 years before Faà di Bruno, the French mathematician <a href="/wiki/Louis_Fran%C3%A7ois_Antoine_Arbogast" title="Louis François Antoine Arbogast">Louis François Antoine Arbogast</a> stated the formula in a calculus textbook,<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;40&#93;</a></sup> considered the first published reference on the subject.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;41&#93;</a></sup>
 
@@ -2268,11 +2241,6 @@ In this context, the term <i>powers</i> refers to iterative application of a lin
 <dd class="glossary">Is an operation that takes two <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">functions</a> <span class="texhtml"><i>f</i></span> and <span class="texhtml"><i>g</i></span> and produces a function <span class="texhtml"><i>h</i></span> such that <span class="texhtml"><i>h</i>(<i>x</i>) = <i>g</i>(<i>f</i>(<i>x</i>))</span>. In this operation, the function <span class="texhtml"><i>g</i></span> is <a href="/wiki/Function_application" title="Function application">applied</a> to the result of applying the function <span class="texhtml"><i>f</i></span> to <span class="texhtml"><i>x</i></span>. That is, the functions <span class="texhtml"><i>f</i> : <i>X</i> → <i>Y</i></span> and <span class="texhtml"><i>g</i> : <i>Y</i> → <i>Z</i></span> are <b>composed</b> to yield a function that maps <span class="texhtml"><i>x</i></span> in <span class="texhtml"><i>X</i></span> to <span class="texhtml"><i>g</i>(<i>f</i>(<i>x</i>))</span> in <span class="texhtml"><i>Z</i></span>.</dd>
 <dt class="glossary" id="fundamental_theorem_of_calculus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Fundamental_theorem_of_calculus" title="Fundamental theorem of calculus">Fundamental theorem of calculus</a></dfn></dt>
 <dd class="glossary">The <b>fundamental theorem of calculus</b> is a <a href="/wiki/Theorem" title="Theorem">theorem</a> that links the concept of <a href="/wiki/Derivative" title="Derivative">differentiating</a> a <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a> with the concept of <a href="/wiki/Integral" title="Integral">integrating</a> a function. The first part of the theorem, sometimes called the <b>first fundamental theorem of calculus</b>, states that one of the <a href="/wiki/Antiderivative" title="Antiderivative">antiderivatives</a> (also called <i>indefinite integral</i>), say <i>F</i>, of some function <i>f</i> may be obtained as the integral of <i>f</i> with a variable bound of integration. This implies the existence of <a href="/wiki/Antiderivative" title="Antiderivative">antiderivatives</a> for <a href="/wiki/Continuous_function" title="Continuous function">continuous functions</a>.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;44&#93;</a></sup>  Conversely, the second part of the theorem, sometimes called the <b>second fundamental theorem of calculus</b>, states that the integral of a function <i>f</i> over some interval can be computed by using any one, say <i>F</i>, of its infinitely many <a href="/wiki/Antiderivative" title="Antiderivative">antiderivatives</a>. This part of the theorem has key practical applications, because explicitly finding the antiderivative of a function by <a href="/wiki/Symbolic_integration" title="Symbolic integration">symbolic integration</a> avoids <a href="/wiki/Numerical_integration" title="Numerical integration">numerical integration</a> to compute integrals. This provides generally a better numerical accuracy.</dd>
-
-
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="general_leibniz_rule" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/General_Leibniz_rule" title="General Leibniz rule">General Leibniz rule</a></dfn></dt>
 <dd class="glossary">The <b>general Leibniz rule</b>,<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;45&#93;</a></sup> named after <a href="/wiki/Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz">Gottfried Wilhelm Leibniz</a>, generalizes the <a href="/wiki/Product_rule" title="Product rule">product rule</a> (which is also known as "Leibniz's rule").  It states that if <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f}">
   <semantics>
@@ -2472,11 +2440,6 @@ As defined in <a href="/wiki/Set_theory" title="Set theory">set theory</a>, the 
 <dd class="glossary">In <a href="/wiki/Geometry" title="Geometry">geometry</a>, a <b>golden spiral</b> is a <a href="/wiki/Logarithmic_spiral" title="Logarithmic spiral">logarithmic spiral</a> whose growth factor is <a href="/wiki/Phi" title="Phi"><span class="texhtml">&#966;</span></a>, the <a href="/wiki/Golden_ratio" title="Golden ratio">golden ratio</a>.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;52&#93;</a></sup> That is, a golden spiral gets wider (or further from its origin) by a factor of <span class="texhtml">&#966;</span> for every quarter turn it makes.</dd>
 <dt class="glossary" id="gradient" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gradient" title="Gradient">Gradient</a></dfn></dt>
 <dd class="glossary">Is a multi-variable generalization of the <a href="/wiki/Derivative" title="Derivative">derivative</a>.  While a derivative can be defined on functions of a single variable, for <a href="/wiki/Function_of_several_variables" class="mw-redirect" title="Function of several variables">functions of several variables</a>, the gradient takes its place.  The gradient is a <a href="/wiki/Vector-valued_function" title="Vector-valued function">vector-valued function</a>, as opposed to a derivative, which is <a href="/wiki/Scalar-valued_function" class="mw-redirect" title="Scalar-valued function">scalar-valued</a>.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="harmonic_progression" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Harmonic_progression_(mathematics)" title="Harmonic progression (mathematics)">Harmonic progression</a></dfn></dt>
 <dd class="glossary">In <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, a <b>harmonic progression</b> (or <b>harmonic sequence</b>) is a progression formed by taking the reciprocals of an <a href="/wiki/Arithmetic_progression" title="Arithmetic progression">arithmetic progression</a>. It is a <a href="/wiki/Sequence" title="Sequence">sequence</a> of the form
 
@@ -2621,11 +2584,6 @@ which is easy to solve by <a href="/wiki/Integral" title="Integral">integration<
 Otherwise, a differential equation is homogeneous if it is a homogeneous function of the unknown function and its derivatives. In the case of <a href="/wiki/Linear_differential_equation" title="Linear differential equation">linear differential equations</a>, this means that there are no constant terms. The solutions of any linear <a href="/wiki/Ordinary_differential_equation" title="Ordinary differential equation">ordinary differential equation</a> of any order may be deduced by integration from the solution of the homogeneous equation obtained by removing the constant term.</dd>
 <dt class="glossary" id="hyperbolic_function" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hyperbolic_function" class="mw-redirect" title="Hyperbolic function">Hyperbolic function</a></dfn></dt>
 <dd class="glossary"><b>Hyperbolic functions</b> are analogs of the ordinary <a href="/wiki/Trigonometric_function" class="mw-redirect" title="Trigonometric function">trigonometric</a>, or <a href="/wiki/Unit_circle" title="Unit circle">circular</a>, functions.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 
 <dt class="glossary" id="identity_function" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Identity_function" title="Identity function">Identity function</a></dfn></dt>
 <dd class="glossary">Also called an <b>identity relation</b> or <b>identity map</b> or <b>identity transformation</b>, is a <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a> that always returns the same value that was used as its argument. In <a href="/wiki/Equation" title="Equation">equations</a>, the function is given by <span class="texhtml"><i>f</i>(<i>x</i>) = <i>x</i></span>.</dd>
@@ -3230,11 +3188,6 @@ This has two important <a href="/wiki/Corollary" title="Corollary">corollaries</
 <dt class="glossary" id="inverse_trigonometric_functions" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Inverse_trigonometric_functions" title="Inverse trigonometric functions">Inverse trigonometric functions</a></dfn></dt>
 <dd class="glossary">(Also called arcus functions,<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">&#91;65&#93;</a></sup><sup id="cite_ref-70" class="reference"><a href="#cite_note-70">&#91;66&#93;</a></sup><sup id="cite_ref-71" class="reference"><a href="#cite_note-71">&#91;67&#93;</a></sup><sup id="cite_ref-72" class="reference"><a href="#cite_note-72">&#91;68&#93;</a></sup><sup id="cite_ref-73" class="reference"><a href="#cite_note-73">&#91;69&#93;</a></sup> antitrigonometric functions<sup id="cite_ref-74" class="reference"><a href="#cite_note-74">&#91;70&#93;</a></sup> or cyclometric functions<sup id="cite_ref-75" class="reference"><a href="#cite_note-75">&#91;71&#93;</a></sup><sup id="cite_ref-76" class="reference"><a href="#cite_note-76">&#91;72&#93;</a></sup><sup id="cite_ref-77" class="reference"><a href="#cite_note-77">&#91;73&#93;</a></sup>) are the <a href="/wiki/Inverse_function" title="Inverse function">inverse functions</a> of the <a href="/wiki/Trigonometric_functions" title="Trigonometric functions">trigonometric functions</a> (with suitably restricted <a href="/wiki/Domain_of_a_function" title="Domain of a function">domains</a>). Specifically, they are the inverses of the <a href="/wiki/Sine" title="Sine">sine</a>, <a href="/wiki/Cosine" class="mw-redirect" title="Cosine">cosine</a>, <a href="/wiki/Tangent_(trigonometry)" class="mw-redirect" title="Tangent (trigonometry)">tangent</a>, <a href="/wiki/Cotangent" class="mw-redirect" title="Cotangent">cotangent</a>, <a href="/wiki/Secant_(trigonometry)" class="mw-redirect" title="Secant (trigonometry)">secant</a>, and <a href="/wiki/Cosecant" class="mw-redirect" title="Cosecant">cosecant</a> functions, and are used to obtain an angle from any of the angle's trigonometric ratios.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
-
 <dt class="glossary" id="jump_discontinuity" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Classification_of_discontinuities#Jump_discontinuity" title="Classification of discontinuities">Jump discontinuity</a></dfn></dt>
 <dd class="glossary">Consider the function
 <dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f(x)={\begin{cases}x^{2}&amp;{\mbox{ for }}x&lt;1\\0&amp;{\mbox{ for }}x=1\\2-(x-1)^{2}&amp;{\mbox{ for }}x&gt;1\end{cases}}}">
@@ -3324,15 +3277,6 @@ This has two important <a href="/wiki/Corollary" title="Corollary">corollaries</
 Then, the point <span class="texhtml"><i>x</i><sub>0</sub></span> = 1 is a <i>jump discontinuity</i>.
 
 In this case, a single limit does not exist because the one-sided limits, <span class="texhtml"><i>L</i><sup>−</sup></span> and <span class="texhtml"><i>L</i><sup>+</sup></span>, exist and are finite, but are not equal: since, <span class="texhtml"><i>L</i><sup>−</sup></span> ≠ <span class="texhtml"><i>L</i><sup>+</sup></span>, the limit <span class="texhtml"><i>L</i></span> does not exist. Then, <span class="texhtml"><i>x</i><sub>0</sub></span> is called a <i>jump discontinuity</i>, <i>step discontinuity</i>, or <i>discontinuity of the first kind</i>. For this type of discontinuity, the function <span class="texhtml"><i>f</i></span> may have any value at <span class="texhtml"><i>x</i><sub>0</sub></span>.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
-</dl>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="law_of_cosines" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Law_of_cosines" title="Law of cosines">Law of cosines</a></dfn></dt>
 <dd class="glossary">.</dd>
 <dt class="glossary" id="law_of_sines" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Law_of_sines" title="Law of sines">Law of sines</a></dfn></dt>
@@ -3528,11 +3472,6 @@ The differentiation of the numerator and denominator often simplifies the quotie
 <dt class="glossary" id="lower_bound" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Upper_and_lower_bounds#Bounds_of_functions" title="Upper and lower bounds">Lower bound</a></dfn></dt>
 <dd class="glossary">.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
-
 <dt class="glossary" id="mean_value_theorem" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Mean_value_theorem" title="Mean value theorem">Mean value theorem</a></dfn></dt>
 <dd class="glossary">.</dd>
 <dt class="glossary" id="monotonic_function" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Monotonic_function#Monotonicity_in_calculus_and_analysis" title="Monotonic function">Monotonic function</a></dfn></dt>
@@ -3543,11 +3482,6 @@ The differentiation of the numerator and denominator often simplifies the quotie
 <dd class="glossary">.</dd>
 <dt class="glossary" id="multivariable_calculus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Multivariable_calculus" title="Multivariable calculus">Multivariable calculus</a></dfn></dt>
 <dd class="glossary">.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="natural_logarithm" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Natural_logarithm" title="Natural logarithm">Natural logarithm</a></dfn></dt>
 <dd class="glossary">The <b>natural logarithm</b> of a number is its <a href="/wiki/Logarithm" title="Logarithm">logarithm</a> to the <a href="/wiki/Base_(exponentiation)" title="Base (exponentiation)">base</a> of the <a href="/wiki/Mathematical_constant" title="Mathematical constant">mathematical constant</a> <a href="/wiki/E_(mathematical_constant)" title="E (mathematical constant)"><i>e</i></a>, where <i>e</i> is an <a href="/wiki/Irrational_number" title="Irrational number">irrational</a> and <a href="/wiki/Transcendental_number" title="Transcendental number">transcendental</a> number approximately equal to <span class="nowrap"><span data-sort-value="7000271828182845899♠"></span>2.718<span style="margin-left:.25em;">281</span><span style="margin-left:.25em;">828</span><span style="margin-left:.25em;">459</span></span>. The natural logarithm of <i>x</i> is generally written as <span class="nowrap">ln <i>x</i></span>, <span class="nowrap">log<sub><i>e</i></sub> <i>x</i></span>,  or sometimes, if the base <i>e</i> is implicit, simply <span class="nowrap">log <i>x</i></span>.<sup id="cite_ref-81" class="reference"><a href="#cite_note-81">&#91;77&#93;</a></sup> <a href="/wiki/Parentheses" class="mw-redirect" title="Parentheses">Parentheses</a> are sometimes added for clarity, giving ln(<i>x</i>), log<sub><i>e</i></sub>(<i>x</i>) or log(<i>x</i>). This is done in particular when the argument to the logarithm is not a single symbol, to prevent ambiguity.</dd>
 <dt class="glossary" id="non-newtonian_calculus" style="margin-top: 0.4em;"><dfn class="glossary">Non-Newtonian calculus</dfn></dt>
@@ -3559,20 +3493,10 @@ The differentiation of the numerator and denominator often simplifies the quotie
 <dt class="glossary" id="numerical_integration" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Numerical_integration" title="Numerical integration">Numerical integration</a></dfn></dt>
 <dd class="glossary">.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
-
 <dt class="glossary" id="one-sided_limit" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/One-sided_limit" title="One-sided limit">One-sided limit</a></dfn></dt>
 <dd class="glossary">.</dd>
 <dt class="glossary" id="ordinary_differential_equation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ordinary_differential_equation" title="Ordinary differential equation">Ordinary differential equation</a></dfn></dt>
 <dd class="glossary">.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="pappus&#39;s_centroid_theorem" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pappus%27s_centroid_theorem" title="Pappus&#39;s centroid theorem">Pappus's centroid theorem</a></dfn></dt>
 <dd class="glossary">(Also known as  the <b>Guldinus theorem</b>, <b>Pappus–Guldinus theorem</b> or <b>Pappus's theorem</b>) is either of two related <a href="/wiki/Theorem" title="Theorem">theorems</a> dealing with the <a href="/wiki/Surface_area" title="Surface area">surface areas</a> and <a href="/wiki/Volume" title="Volume">volumes</a> of <a href="/wiki/Surface_of_revolution" title="Surface of revolution">surfaces</a> and <a href="/wiki/Solid_of_revolution" title="Solid of revolution">solids</a> of revolution.</dd>
 <dt class="glossary" id="parabola" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Parabola" title="Parabola">Parabola</a></dfn></dt>
@@ -3605,11 +3529,6 @@ The differentiation of the numerator and denominator often simplifies the quotie
 <dd class="glossary">.</dd>
 <dt class="glossary" id="pythagorean_trigonometric_identity" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pythagorean_trigonometric_identity" title="Pythagorean trigonometric identity">Pythagorean trigonometric identity</a></dfn></dt>
 <dd class="glossary">.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="quadratic_function" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quadratic_function" title="Quadratic function">Quadratic function</a></dfn></dt>
 <dd class="glossary">In <a href="/wiki/Algebra" title="Algebra">algebra</a>, a <b>quadratic function</b>, a <b>quadratic polynomial</b>, a <b>polynomial of degree 2</b>, or simply a <b>quadratic</b>, is a <a href="/wiki/Polynomial_function" class="mw-redirect" title="Polynomial function">polynomial function</a> with one or more variables in which the highest-degree term is of the second degree. For example, a quadratic function in three variables <i>x</i>, <i>y,</i> and <i>z</i> contains exclusively terms <i>x</i><sup>2</sup>, <i>y</i><sup>2</sup>, <i>z</i><sup>2</sup>, <i>xy</i>, <i>xz</i>, <i>yz</i>, <i>x</i>, <i>y</i>, <i>z</i>, and a constant:
 
@@ -3773,11 +3692,6 @@ In general there can be an arbitrarily large number of variables, in which case 
 <dd class="glossary">.</dd>
 <dt class="glossary" id="quotient_rule" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quotient_rule" title="Quotient rule">Quotient rule</a></dfn></dt>
 <dd class="glossary">A formula for finding the derivative of a function that is the ratio of two functions.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="radian" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Radian" title="Radian">Radian</a></dfn></dt>
 <dd class="glossary">Is the <a href="/wiki/International_System_of_Units" title="International System of Units">SI unit</a> for measuring <a href="/wiki/Angle" title="Angle">angles</a>, and is the standard unit of angular measure used in many areas of <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>.  The length of an arc of a <a href="/wiki/Unit_circle" title="Unit circle">unit circle</a> is numerically equal to the measurement in radians of the <a href="/wiki/Angle" title="Angle">angle</a> that it <a href="https://en.wiktionary.org/wiki/subtend" class="extiw" title="wikt:subtend">subtends</a>; one radian is just under 57.3 <a href="/wiki/Degree_(angle)" title="Degree (angle)">degrees</a> (expansion at <span class="nowrap external"><a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>:&#160;<a href="//oeis.org/A072097" class="extiw" title="oeis:A072097">A072097</a></span>). The unit was formerly an <a href="/wiki/SI_supplementary_unit" class="mw-redirect" title="SI supplementary unit">SI supplementary unit</a>, but this category was abolished in 1995 and the radian is now considered an <a href="/wiki/SI_derived_unit" title="SI derived unit">SI derived unit</a>.<sup id="cite_ref-83" class="reference"><a href="#cite_note-83">&#91;79&#93;</a></sup>  Separately, the SI unit of <a href="/wiki/Solid_angle" title="Solid angle">solid angle</a> measurement is the <a href="/wiki/Steradian" title="Steradian">steradian</a> .</dd>
 <dt class="glossary" id="ratio_test" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ratio_test" title="Ratio test">Ratio test</a></dfn></dt>
@@ -3796,11 +3710,6 @@ In general there can be an arbitrarily large number of variables, in which case 
 <dd class="glossary">.</dd>
 <dt class="glossary" id="root_test" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Root_test" title="Root test">Root test</a></dfn></dt>
 <dd class="glossary">.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="scalar" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Scalar_(mathematics)" title="Scalar (mathematics)">Scalar</a></dfn></dt>
 <dd class="glossary">.</dd>
 <dt class="glossary" id="secant_line" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Secant_line" title="Secant line">Secant line</a></dfn></dt>
@@ -3839,11 +3748,6 @@ In general there can be an arbitrarily large number of variables, in which case 
 <dd class="glossary">.</dd>
 <dt class="glossary" id="system_of_linear_equations" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/System_of_linear_equations" title="System of linear equations">System of linear equations</a></dfn></dt>
 <dd class="glossary">.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="table_of_integrals" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/List_of_integrals" class="mw-redirect" title="List of integrals">Table of integrals</a></dfn></dt>
 <dd class="glossary">.</dd>
 <dt class="glossary" id="taylor_series" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Taylor_series" title="Taylor series">Taylor series</a></dfn></dt>
@@ -3872,47 +3776,17 @@ In general there can be an arbitrarily large number of variables, in which case 
 <dd class="glossary">.</dd>
 <dt class="glossary" id="triple_integral" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Triple_integral" class="mw-redirect" title="Triple integral">Triple integral</a></dfn></dt>
 <dd class="glossary">.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="upper_bound" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Upper_and_lower_bounds#Bounds_of_functions" title="Upper and lower bounds">Upper bound</a></dfn></dt>
 <dd class="glossary">.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="variable" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Variable_(mathematics)" title="Variable (mathematics)">Variable</a></dfn></dt>
 <dd class="glossary">.</dd>
 <dt class="glossary" id="vector" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vector_(mathematics_and_physics)" title="Vector (mathematics and physics)">Vector</a></dfn></dt>
 <dd class="glossary">.</dd>
 <dt class="glossary" id="vector_calculus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vector_calculus" title="Vector calculus">Vector calculus</a></dfn></dt>
 <dd class="glossary">.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="washer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Disc_integration#Washer_method" title="Disc integration">Washer</a></dfn></dt>
 <dd class="glossary">.</dd>
 <dt class="glossary" id="washer_method" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Disc_integration#Washer_method" title="Disc integration">Washer method</a></dfn></dt>
 <dd class="glossary">.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=24" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
-</dl>
-<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=25" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
-</dl>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_calculus&amp;action=edit&amp;section=26" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="zero_vector" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zero_vector" class="mw-redirect" title="Zero vector">Zero vector</a></dfn></dt>
 <dd class="glossary">.</dd>
-
-</dl>
