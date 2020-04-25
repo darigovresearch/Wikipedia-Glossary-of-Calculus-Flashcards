@@ -147,8 +147,14 @@ An <a href=""https://en.wikipedia.org/wiki/Series_(mathematics)"" title=""Series
     <annotation encoding=""application/x-tex"">{\displaystyle \textstyle \int _{0}^{\infty }\left|f(x)\right|dx=L.}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/fc2311c86069ed781d51780751952f16bf8c97ea"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:17.749ex; height:3.176ex;"" alt=""\textstyle\int_0^\infty \left|f(x)\right|dx = L.""/></span>"
-"<a href=""https://en.wikipedia.org/wiki/Maxima_and_minima"" title=""Maxima and minima"">Absolute maximum</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Maxima_and_minima"" title=""Maxima and minima"">Absolute minimum</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Maxima_and_minima"" title=""Maxima and minima"">Absolute maximum</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Maxima_and_minima"" title=""Maxima and minima"">Absolute minimum</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Absolute_value"" title=""Absolute value"">Absolute value</a>" (Wikipedia Glossary of Calculus)|"
 The <b>absolute value</b> or <b>modulus</b> <span class=""texhtml"">|<i>x</i>|</span> of a <a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">real number</a>&#160;<span class=""texhtml mvar"" style=""font-style:italic;"">x</span> is the <a href=""https://en.wikipedia.org/wiki/Non-negative"" class=""mw-redirect"" title=""Non-negative"">non-negative</a> value of&#160;<span class=""texhtml mvar"" style=""font-style:italic;"">x</span> without regard to its <a href=""https://en.wikipedia.org/wiki/Sign_(mathematics)"" title=""Sign (mathematics)"">sign</a>. Namely, <span class=""texhtml"">|<i>x</i>| = <i>x</i></span> for a <a href=""https://en.wikipedia.org/wiki/Positive_number"" class=""mw-redirect"" title=""Positive number"">positive</a>&#160;<span class=""texhtml mvar"" style=""font-style:italic;"">x</span>, <span class=""texhtml"">|<i>x</i>| = −<i>x</i></span> for a <a href=""https://en.wikipedia.org/wiki/Negative_number"" title=""Negative number"">negative</a>&#160;<span class=""texhtml mvar"" style=""font-style:italic;"">x</span> (in which case <span class=""texhtml"">−<i>x</i></span> is positive), and <span class=""texhtml"">|0| = 0</span>. For example, the absolute value of 3 is 3, and the absolute value of −3 is also 3. The absolute value of a number may be thought of as its <a href=""https://en.wikipedia.org/wiki/Distance"" title=""Distance"">distance</a> from zero."
 "<a href=""https://en.wikipedia.org/wiki/Alternating_series"" title=""Alternating series"">Alternating series</a>" (Wikipedia Glossary of Calculus)|"
@@ -173,14 +179,23 @@ An <b>antiderivative</b>, <b>primitive function</b>, <b>primitive integral</b> o
     <annotation encoding=""application/x-tex"">{\displaystyle F'=f}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c10131b70a7b0b4c39667f5386b14c449a5217e7"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:6.877ex; height:2.843ex;"" alt=""{\displaystyle F&#039;=f}""/></span>.<sup id=""cite_ref-2"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-2"">&#91;1&#93;</a></sup><sup id=""cite_ref-3"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-3"">&#91;2&#93;</a></sup> The process of solving for antiderivatives is called <b>antidifferentiation</b> (or <b>indefinite integration</b>) and its opposite operation is called differentiation, which is the process of finding a derivative."
-"<a href=""https://en.wikipedia.org/wiki/Inverse_trigonometric_functions"" title=""Inverse trigonometric functions"">Arcsin</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Area_under_a_curve"" class=""mw-redirect"" title=""Area under a curve"">Area under a curve</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Inverse_trigonometric_functions"" title=""Inverse trigonometric functions"">Arcsin</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Area_under_a_curve"" class=""mw-redirect"" title=""Area under a curve"">Area under a curve</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Asymptote"" title=""Asymptote"">Asymptote</a>" (Wikipedia Glossary of Calculus)|"
 In <a href=""https://en.wikipedia.org/wiki/Analytic_geometry"" title=""Analytic geometry"">analytic geometry</a>, an <b>asymptote</b> of a <a href=""https://en.wikipedia.org/wiki/Curve"" title=""Curve"">curve</a> is a line such that the distance between the curve and the line approaches zero as one or both of the <i>x</i> or <i>y</i> coordinates <a href=""https://en.wikipedia.org/wiki/Limit_of_a_function#Limits_at_infinity"" title=""Limit of a function"">tends to infinity</a>. Some sources include the requirement that the curve may not cross the line infinitely often, but this is unusual for modern authors.<sup id=""cite_ref-4"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-4"">&#91;3&#93;</a></sup> In <a href=""https://en.wikipedia.org/wiki/Projective_geometry"" title=""Projective geometry"">projective geometry</a> and related contexts, an asymptote of a curve is a line which is <a href=""https://en.wikipedia.org/wiki/Tangent"" title=""Tangent"">tangent</a> to the curve at a <a href=""https://en.wikipedia.org/wiki/Point_at_infinity"" title=""Point at infinity"">point at infinity</a>.<sup id=""cite_ref-5"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-5"">&#91;4&#93;</a></sup><sup id=""cite_ref-6"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-6"">&#91;5&#93;</a></sup>"
 "<a href=""https://en.wikipedia.org/wiki/Automatic_differentiation"" title=""Automatic differentiation"">Automatic differentiation</a>" (Wikipedia Glossary of Calculus)|"
 In <a href=""https://en.wikipedia.org/wiki/Mathematics"" title=""Mathematics"">mathematics</a> and <a href=""https://en.wikipedia.org/wiki/Computer_algebra"" title=""Computer algebra"">computer algebra</a>, <b>automatic differentiation</b> (<b>AD</b>), also called <b>algorithmic differentiation</b> or <b>computational differentiation</b>,<sup id=""cite_ref-7"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-7"">&#91;6&#93;</a></sup><sup id=""cite_ref-baydin2018automatic_8-0"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-baydin2018automatic-8"">&#91;7&#93;</a></sup> is a set of techniques to numerically evaluate the <a href=""https://en.wikipedia.org/wiki/Derivative"" title=""Derivative"">derivative</a> of a function specified by a computer program. AD exploits the fact that every computer program, no matter how complicated, executes a sequence of elementary arithmetic operations (addition, subtraction, multiplication, division, etc.) and elementary functions (exp, log, sin, cos, etc.). By applying the <a href=""https://en.wikipedia.org/wiki/Chain_rule"" title=""Chain rule"">chain rule</a> repeatedly to these operations, derivatives of arbitrary order can be computed automatically, accurately to working precision, and using at most a small constant factor more arithmetic operations than the original program.</dd>
 "
-"<a href=""https://en.wikipedia.org/wiki/Rate_(mathematics)#rate_of_change"" title=""Rate (mathematics)"">Average rate of change</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Rate_(mathematics)#rate_of_change"" title=""Rate (mathematics)"">Average rate of change</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Binomial_coefficient"" title=""Binomial coefficient"">Binomial coefficient</a>" (Wikipedia Glossary of Calculus)|"
 Any of the positive <a href=""https://en.wikipedia.org/wiki/Integer"" title=""Integer"">integers</a> that occurs as a <a href=""https://en.wikipedia.org/wiki/Coefficient"" title=""Coefficient"">coefficient</a> in the <a href=""https://en.wikipedia.org/wiki/Binomial_theorem"" title=""Binomial theorem"">binomial theorem</a> is a <b>binomial coefficient</b>. Commonly, a binomial coefficient is indexed by a pair of integers <span class=""texhtml""><i>n</i> ≥ <i>k</i> ≥ 0</span> and is written <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle {\tbinom {n}{k}}.}"">
   <semantics>
@@ -938,7 +953,10 @@ where <i>dy</i>/<i>dx</i> denotes the <a href=""https://en.wikipedia.org/wiki/De
 Is a subfield of calculus<sup id=""cite_ref-31"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-31"">&#91;30&#93;</a></sup> concerned with the study of the rates at which quantities change. It is one of the two traditional divisions of calculus, the other being <a href=""https://en.wikipedia.org/wiki/Integral_calculus"" class=""mw-redirect"" title=""Integral calculus"">integral calculus</a>, the study of the area beneath a curve.<sup id=""cite_ref-32"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-32"">&#91;31&#93;</a></sup>"
 "<a href=""https://en.wikipedia.org/wiki/Differential_equation"" title=""Differential equation"">Differential equation</a>" (Wikipedia Glossary of Calculus)|"
 Is a <a href=""https://en.wikipedia.org/wiki/Mathematics"" title=""Mathematics"">mathematical</a> <a href=""https://en.wikipedia.org/wiki/Equation"" title=""Equation"">equation</a> that relates some <a href=""https://en.wikipedia.org/wiki/Function_(mathematics)"" title=""Function (mathematics)"">function</a> with its <a href=""https://en.wikipedia.org/wiki/Derivative"" title=""Derivative"">derivatives</a>. In applications, the functions usually represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two."
-"<a href=""https://en.wikipedia.org/wiki/Differential_operator"" title=""Differential operator"">Differential operator</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Differential_operator"" title=""Differential operator"">Differential operator</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Differential_of_a_function"" title=""Differential of a function"">Differential of a function</a>" (Wikipedia Glossary of Calculus)|"
 In <a href=""https://en.wikipedia.org/wiki/Calculus"" title=""Calculus"">calculus</a>, the <b>differential</b> represents the <a href=""https://en.wikipedia.org/wiki/Principal_part#Calculus"" title=""Principal part"">principal part</a> of the change in a function <i>y</i>&#160;=&#160;<i>f</i>(<i>x</i>) with respect to changes in the independent variable. The differential <i>dy</i> is defined by
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle dy=f'(x)\,dx,}"">
@@ -1039,7 +1057,10 @@ holds, where the derivative is represented in the <a href=""https://en.wikipedia
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/1036d9e3de8d36ab7126d94f2e0603458b3307b4"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:17.456ex; height:3.009ex;"" alt=""df(x)=f&#039;(x)\,dx.""/></span></dd></dl>
 
 The precise meaning of the variables <i>dy</i> and <i>dx</i> depends on the context of the application and the required level of mathematical rigor. The domain of these variables may take on a particular geometrical significance if the differential is regarded as a particular <a href=""https://en.wikipedia.org/wiki/Differential_form"" title=""Differential form"">differential form</a>, or analytical significance if the differential is regarded as a <a href=""https://en.wikipedia.org/wiki/Linear_approximation"" title=""Linear approximation"">linear approximation</a> to the increment of a function. Traditionally, the variables <i>dx</i> and <i>dy</i> are considered to be very small (<a href=""https://en.wikipedia.org/wiki/Infinitesimal"" title=""Infinitesimal"">infinitesimal</a>), and this interpretation is made rigorous in <a href=""https://en.wikipedia.org/wiki/Non-standard_analysis"" class=""mw-redirect"" title=""Non-standard analysis"">non-standard analysis</a>."
-"<a href=""https://en.wikipedia.org/wiki/Differentiation_rules"" title=""Differentiation rules"">Differentiation rules</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Differentiation_rules"" title=""Differentiation rules"">Differentiation rules</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Direct_comparison_test"" title=""Direct comparison test"">Direct comparison test</a>" (Wikipedia Glossary of Calculus)|"
 A convergence test in which an infinite series or an improper integral is compared to one with known convergence properties."
 "<a href=""https://en.wikipedia.org/wiki/Dirichlet%27s_test"" title=""Dirichlet&#39;s test"">Dirichlet's test</a>" (Wikipedia Glossary of Calculus)|"
@@ -2160,7 +2181,10 @@ Combining the terms with the same value of <i>m</i><sub>1</sub>&#160;+&#160;<i>m
     <annotation encoding=""application/x-tex"">{\displaystyle {d^{n} \over dx^{n}}f(g(x))=\sum _{k=1}^{n}f^{(k)}(g(x))\cdot B_{n,k}\left(g'(x),g''(x),\dots ,g^{(n-k+1)}(x)\right).}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c5e9078bc352969d6e2aed7629d56dbbdfca0209"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.005ex; width:66.247ex; height:6.843ex;"" alt=""{d^n \over dx^n} f(g(x)) = \sum_{k=1}^n f^{(k)}(g(x))\cdot B_{n,k}\left(g&#039;(x),g&#039;&#039;(x),\dots,g^{(n-k+1)}(x)\right).""/></span></dd></dl></dd></dl>"
-"<a href=""https://en.wikipedia.org/wiki/Degree_of_a_polynomial"" title=""Degree of a polynomial"">First-degree polynomial</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Degree_of_a_polynomial"" title=""Degree of a polynomial"">First-degree polynomial</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Derivative_test#First_derivative_test"" title=""Derivative test"">First derivative test</a>" (Wikipedia Glossary of Calculus)|"
 The first derivative test examines a function's <a href=""https://en.wikipedia.org/wiki/Monotonic_function"" title=""Monotonic function"">monotonic</a> properties (where the function is increasing or decreasing) focusing on a particular point in its domain. If the function ""switches"" from increasing to decreasing at the point, then the function will achieve a highest value at that point. Similarly, if the function ""switches"" from decreasing to increasing at the point, then it will achieve a least value at that point. If the function fails to ""switch"", and remains increasing or remains decreasing, then no highest or least value is achieved."
 "<a href=""https://en.wikipedia.org/wiki/Fractional_calculus"" title=""Fractional calculus"">Fractional calculus</a>" (Wikipedia Glossary of Calculus)|"
@@ -3283,8 +3307,14 @@ Consider the function
 Then, the point <span class=""texhtml""><i>x</i><sub>0</sub></span> = 1 is a <i>jump discontinuity</i>.
 
 In this case, a single limit does not exist because the one-sided limits, <span class=""texhtml""><i>L</i><sup>−</sup></span> and <span class=""texhtml""><i>L</i><sup>+</sup></span>, exist and are finite, but are not equal: since, <span class=""texhtml""><i>L</i><sup>−</sup></span> ≠ <span class=""texhtml""><i>L</i><sup>+</sup></span>, the limit <span class=""texhtml""><i>L</i></span> does not exist. Then, <span class=""texhtml""><i>x</i><sub>0</sub></span> is called a <i>jump discontinuity</i>, <i>step discontinuity</i>, or <i>discontinuity of the first kind</i>. For this type of discontinuity, the function <span class=""texhtml""><i>f</i></span> may have any value at <span class=""texhtml""><i>x</i><sub>0</sub></span>."
-"<a href=""https://en.wikipedia.org/wiki/Law_of_cosines"" title=""Law of cosines"">Law of cosines</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Law_of_sines"" title=""Law of sines"">Law of sines</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Law_of_cosines"" title=""Law of cosines"">Law of cosines</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Law_of_sines"" title=""Law of sines"">Law of sines</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Lebesgue_integration"" title=""Lebesgue integration"">Lebesgue integration</a>" (Wikipedia Glossary of Calculus)|"
 In mathematics, the <a href=""https://en.wikipedia.org/wiki/Integral"" title=""Integral"">integral</a> of a non-negative <a href=""https://en.wikipedia.org/wiki/Function_(mathematics)"" title=""Function (mathematics)"">function</a> of a single variable can be regarded, in the simplest case, as the <a href=""https://en.wikipedia.org/wiki/Area"" title=""Area"">area</a> between the <a href=""https://en.wikipedia.org/wiki/Graph_of_a_function"" title=""Graph of a function"">graph</a> of that function and the <span class=""texhtml""><i>x</i></span>-axis. The <b>Lebesgue integral</b> extends the integral to a larger class of functions. It also extends the <a href=""https://en.wikipedia.org/wiki/Domain_(mathematics)"" class=""mw-redirect"" title=""Domain (mathematics)"">domains</a> on which these functions can be defined."
 "<a href=""https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule"" title=""L&#39;Hôpital&#39;s rule"">L'Hôpital's rule</a>" (Wikipedia Glossary of Calculus)|"
@@ -3455,51 +3485,148 @@ L'Hôpital's rule states that for functions <span class=""texhtml""><var style="
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/3d7785840386a94cc10bf59bffa7fe39cc946c43"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -2.671ex; width:22.344ex; height:6.509ex;"" alt=""{\displaystyle \lim _{x\to c}{\frac {f(x)}{g(x)}}=\lim _{x\to c}{\frac {f&#039;(x)}{g&#039;(x)}}.}""/></span></dd></dl>
 
 The differentiation of the numerator and denominator often simplifies the quotient or converts it to a limit that can be evaluated directly."
-"<a href=""https://en.wikipedia.org/wiki/Limit_comparison_test"" title=""Limit comparison test"">Limit comparison test</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Limit_of_a_function"" title=""Limit of a function"">Limit of a function</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Limits_of_integration"" title=""Limits of integration"">Limits of integration</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Limit_comparison_test"" title=""Limit comparison test"">Limit comparison test</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Limit_of_a_function"" title=""Limit of a function"">Limit of a function</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Limits_of_integration"" title=""Limits of integration"">Limits of integration</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Linear_combination"" title=""Linear combination"">Linear combination</a>" (Wikipedia Glossary of Calculus)|"
 In <a href=""https://en.wikipedia.org/wiki/Mathematics"" title=""Mathematics"">mathematics</a>, a linear combination is an <a href=""https://en.wikipedia.org/wiki/Expression_(mathematics)"" title=""Expression (mathematics)"">expression</a> constructed from a <a href=""https://en.wikipedia.org/wiki/Set_(mathematics)"" title=""Set (mathematics)"">set</a> of terms by multiplying each term by a constant and adding the results (e.g. a linear combination of <i>x</i> and <i>y</i> would be any expression of the form <i>ax</i> + <i>by</i>, where <i>a</i> and <i>b</i> are constants).<sup id=""cite_ref-78"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-78"">&#91;74&#93;</a></sup><sup id=""cite_ref-79"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-79"">&#91;75&#93;</a></sup><sup id=""cite_ref-80"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-80"">&#91;76&#93;</a></sup> The concept of linear combinations is central to <a href=""https://en.wikipedia.org/wiki/Linear_algebra"" title=""Linear algebra"">linear algebra</a> and related fields of mathematics."
-"<a href=""https://en.wikipedia.org/wiki/Linear_equation"" title=""Linear equation"">Linear equation</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Linear_system"" title=""Linear system"">Linear system</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/List_of_integrals"" class=""mw-redirect"" title=""List of integrals"">List of integrals</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Logarithm"" title=""Logarithm"">Logarithm</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Logarithmic_differentiation"" title=""Logarithmic differentiation"">Logarithmic differentiation</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Upper_and_lower_bounds#Bounds_of_functions"" title=""Upper and lower bounds"">Lower bound</a>" (Wikipedia Glossary of Calculus)|"TODO
+"<a href=""https://en.wikipedia.org/wiki/Linear_equation"" title=""Linear equation"">Linear equation</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
-"<a href=""https://en.wikipedia.org/wiki/Mean_value_theorem"" title=""Mean value theorem"">Mean value theorem</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Monotonic_function#Monotonicity_in_calculus_and_analysis"" title=""Monotonic function"">Monotonic function</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Multiple_integral"" title=""Multiple integral"">Multiple integral</a>" (Wikipedia Glossary of Calculus)|"TODO"
-Multiplicative calculus|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Multivariable_calculus"" title=""Multivariable calculus"">Multivariable calculus</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Linear_system"" title=""Linear system"">Linear system</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/List_of_integrals"" class=""mw-redirect"" title=""List of integrals"">List of integrals</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Logarithm"" title=""Logarithm"">Logarithm</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Logarithmic_differentiation"" title=""Logarithmic differentiation"">Logarithmic differentiation</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Upper_and_lower_bounds#Bounds_of_functions"" title=""Upper and lower bounds"">Lower bound</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Mean_value_theorem"" title=""Mean value theorem"">Mean value theorem</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Monotonic_function#Monotonicity_in_calculus_and_analysis"" title=""Monotonic function"">Monotonic function</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Multiple_integral"" title=""Multiple integral"">Multiple integral</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+Multiplicative calculus|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Multivariable_calculus"" title=""Multivariable calculus"">Multivariable calculus</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Natural_logarithm"" title=""Natural logarithm"">Natural logarithm</a>" (Wikipedia Glossary of Calculus)|"
 The <b>natural logarithm</b> of a number is its <a href=""https://en.wikipedia.org/wiki/Logarithm"" title=""Logarithm"">logarithm</a> to the <a href=""https://en.wikipedia.org/wiki/Base_(exponentiation)"" title=""Base (exponentiation)"">base</a> of the <a href=""https://en.wikipedia.org/wiki/Mathematical_constant"" title=""Mathematical constant"">mathematical constant</a> <a href=""https://en.wikipedia.org/wiki/E_(mathematical_constant)"" title=""E (mathematical constant)""><i>e</i></a>, where <i>e</i> is an <a href=""https://en.wikipedia.org/wiki/Irrational_number"" title=""Irrational number"">irrational</a> and <a href=""https://en.wikipedia.org/wiki/Transcendental_number"" title=""Transcendental number"">transcendental</a> number approximately equal to <span class=""nowrap""><span data-sort-value=""7000271828182845899♠""></span>2.718<span style=""margin-left:.25em;"">281</span><span style=""margin-left:.25em;"">828</span><span style=""margin-left:.25em;"">459</span></span>. The natural logarithm of <i>x</i> is generally written as <span class=""nowrap"">ln <i>x</i></span>, <span class=""nowrap"">log<sub><i>e</i></sub> <i>x</i></span>,  or sometimes, if the base <i>e</i> is implicit, simply <span class=""nowrap"">log <i>x</i></span>.<sup id=""cite_ref-81"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-81"">&#91;77&#93;</a></sup> <a href=""https://en.wikipedia.org/wiki/Parentheses"" class=""mw-redirect"" title=""Parentheses"">Parentheses</a> are sometimes added for clarity, giving ln(<i>x</i>), log<sub><i>e</i></sub>(<i>x</i>) or log(<i>x</i>). This is done in particular when the argument to the logarithm is not a single symbol, to prevent ambiguity."
-Non-Newtonian calculus|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Nonstandard_calculus"" title=""Nonstandard calculus"">Nonstandard calculus</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Notation_for_differentiation"" title=""Notation for differentiation"">Notation for differentiation</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Numerical_integration"" title=""Numerical integration"">Numerical integration</a>" (Wikipedia Glossary of Calculus)|"TODO
+Non-Newtonian calculus|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
-"<a href=""https://en.wikipedia.org/wiki/One-sided_limit"" title=""One-sided limit"">One-sided limit</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Ordinary_differential_equation"" title=""Ordinary differential equation"">Ordinary differential equation</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Nonstandard_calculus"" title=""Nonstandard calculus"">Nonstandard calculus</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Notation_for_differentiation"" title=""Notation for differentiation"">Notation for differentiation</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Numerical_integration"" title=""Numerical integration"">Numerical integration</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/One-sided_limit"" title=""One-sided limit"">One-sided limit</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Ordinary_differential_equation"" title=""Ordinary differential equation"">Ordinary differential equation</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Pappus%27s_centroid_theorem"" title=""Pappus&#39;s centroid theorem"">Pappus's centroid theorem</a>" (Wikipedia Glossary of Calculus)|"
 (Also known as  the <b>Guldinus theorem</b>, <b>Pappus–Guldinus theorem</b> or <b>Pappus's theorem</b>) is either of two related <a href=""https://en.wikipedia.org/wiki/Theorem"" title=""Theorem"">theorems</a> dealing with the <a href=""https://en.wikipedia.org/wiki/Surface_area"" title=""Surface area"">surface areas</a> and <a href=""https://en.wikipedia.org/wiki/Volume"" title=""Volume"">volumes</a> of <a href=""https://en.wikipedia.org/wiki/Surface_of_revolution"" title=""Surface of revolution"">surfaces</a> and <a href=""https://en.wikipedia.org/wiki/Solid_of_revolution"" title=""Solid of revolution"">solids</a> of revolution."
 "<a href=""https://en.wikipedia.org/wiki/Parabola"" title=""Parabola"">Parabola</a>" (Wikipedia Glossary of Calculus)|"
 Is a <a href=""https://en.wikipedia.org/wiki/Plane_curve"" title=""Plane curve"">plane curve</a> that is <a href=""https://en.wikipedia.org/wiki/Reflection_symmetry"" title=""Reflection symmetry"">mirror-symmetrical</a> and is approximately U-<a href=""https://en.wikipedia.org/wiki/Shape"" title=""Shape"">shaped</a>. It fits several superficially different other <a href=""https://en.wikipedia.org/wiki/Mathematics"" title=""Mathematics"">mathematical</a> descriptions, which can all be proved to define exactly the same curves."
-"<a href=""https://en.wikipedia.org/wiki/Paraboloid"" title=""Paraboloid"">Paraboloid</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Partial_derivative"" title=""Partial derivative"">Partial derivative</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Partial_differential_equation"" title=""Partial differential equation"">Partial differential equation</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Partial_fraction_decomposition"" title=""Partial fraction decomposition"">Partial fraction decomposition</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Particular_solution"" class=""mw-redirect"" title=""Particular solution"">Particular solution</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Paraboloid"" title=""Paraboloid"">Paraboloid</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Partial_derivative"" title=""Partial derivative"">Partial derivative</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Partial_differential_equation"" title=""Partial differential equation"">Partial differential equation</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Partial_fraction_decomposition"" title=""Partial fraction decomposition"">Partial fraction decomposition</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Particular_solution"" class=""mw-redirect"" title=""Particular solution"">Particular solution</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Piecewise"" title=""Piecewise"">Piecewise-defined function</a>" (Wikipedia Glossary of Calculus)|"
 A function defined by multiple sub-functions that apply to certain intervals of the function's domain."
-"<a href=""https://en.wikipedia.org/wiki/Position_(vector)"" class=""mw-redirect"" title=""Position (vector)"">Position vector</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Power_rule"" title=""Power rule"">Power rule</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Product_integral"" title=""Product integral"">Product integral</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Product_rule"" title=""Product rule"">Product rule</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Proper_fraction"" class=""mw-redirect"" title=""Proper fraction"">Proper fraction</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Proper_rational_function"" class=""mw-redirect"" title=""Proper rational function"">Proper rational function</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Pythagorean_theorem"" title=""Pythagorean theorem"">Pythagorean theorem</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Pythagorean_trigonometric_identity"" title=""Pythagorean trigonometric identity"">Pythagorean trigonometric identity</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Position_(vector)"" class=""mw-redirect"" title=""Position (vector)"">Position vector</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Power_rule"" title=""Power rule"">Power rule</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Product_integral"" title=""Product integral"">Product integral</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Product_rule"" title=""Product rule"">Product rule</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Proper_fraction"" class=""mw-redirect"" title=""Proper fraction"">Proper fraction</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Proper_rational_function"" class=""mw-redirect"" title=""Proper rational function"">Proper rational function</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Pythagorean_theorem"" title=""Pythagorean theorem"">Pythagorean theorem</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Pythagorean_trigonometric_identity"" title=""Pythagorean trigonometric identity"">Pythagorean trigonometric identity</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Quadratic_function"" title=""Quadratic function"">Quadratic function</a>" (Wikipedia Glossary of Calculus)|"
 In <a href=""https://en.wikipedia.org/wiki/Algebra"" title=""Algebra"">algebra</a>, a <b>quadratic function</b>, a <b>quadratic polynomial</b>, a <b>polynomial of degree 2</b>, or simply a <b>quadratic</b>, is a <a href=""https://en.wikipedia.org/wiki/Polynomial_function"" class=""mw-redirect"" title=""Polynomial function"">polynomial function</a> with one or more variables in which the highest-degree term is of the second degree. For example, a quadratic function in three variables <i>x</i>, <i>y,</i> and <i>z</i> contains exclusively terms <i>x</i><sup>2</sup>, <i>y</i><sup>2</sup>, <i>z</i><sup>2</sup>, <i>xy</i>, <i>xz</i>, <i>yz</i>, <i>x</i>, <i>y</i>, <i>z</i>, and a constant:
 
@@ -3659,56 +3786,203 @@ The bivariate case in terms of variables <i>x</i> and <i>y</i> has the form
 with at least one of <i>a, b, c</i> not equal to zero, and an equation setting this function equal to zero gives rise to a <a href=""https://en.wikipedia.org/wiki/Conic_section"" title=""Conic section"">conic section</a> (a <a href=""https://en.wikipedia.org/wiki/Circle"" title=""Circle"">circle</a> or other <a href=""https://en.wikipedia.org/wiki/Ellipse"" title=""Ellipse"">ellipse</a>, a <a href=""https://en.wikipedia.org/wiki/Parabola"" title=""Parabola"">parabola</a>, or a <a href=""https://en.wikipedia.org/wiki/Hyperbola"" title=""Hyperbola"">hyperbola</a>).
 
 In general there can be an arbitrarily large number of variables, in which case the resulting <a href=""https://en.wikipedia.org/wiki/Surface_(geometry)"" class=""mw-redirect"" title=""Surface (geometry)"">surface</a> is called a <a href=""https://en.wikipedia.org/wiki/Quadric"" title=""Quadric"">quadric</a>, but the highest degree term must be of degree 2, such as <i>x</i><sup>2</sup>, <i>xy</i>, <i>yz</i>, etc."
-"<a href=""https://en.wikipedia.org/wiki/Quadratic_polynomial"" class=""mw-redirect"" title=""Quadratic polynomial"">Quadratic polynomial</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Quadratic_polynomial"" class=""mw-redirect"" title=""Quadratic polynomial"">Quadratic polynomial</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Quotient_rule"" title=""Quotient rule"">Quotient rule</a>" (Wikipedia Glossary of Calculus)|"
 A formula for finding the derivative of a function that is the ratio of two functions."
 "<a href=""https://en.wikipedia.org/wiki/Radian"" title=""Radian"">Radian</a>" (Wikipedia Glossary of Calculus)|"
 Is the <a href=""https://en.wikipedia.org/wiki/International_System_of_Units"" title=""International System of Units"">SI unit</a> for measuring <a href=""https://en.wikipedia.org/wiki/Angle"" title=""Angle"">angles</a>, and is the standard unit of angular measure used in many areas of <a href=""https://en.wikipedia.org/wiki/Mathematics"" title=""Mathematics"">mathematics</a>.  The length of an arc of a <a href=""https://en.wikipedia.org/wiki/Unit_circle"" title=""Unit circle"">unit circle</a> is numerically equal to the measurement in radians of the <a href=""https://en.wikipedia.org/wiki/Angle"" title=""Angle"">angle</a> that it <a href=""https://en.wiktionary.org/wiki/subtend"" class=""extiw"" title=""wikt:subtend"">subtends</a>; one radian is just under 57.3 <a href=""https://en.wikipedia.org/wiki/Degree_(angle)"" title=""Degree (angle)"">degrees</a> (expansion at <span class=""nowrap external""><a href=""https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences"" title=""On-Line Encyclopedia of Integer Sequences"">OEIS</a>:&#160;<a href=""https://en.wikipedia.org//oeis.org/A072097"" class=""extiw"" title=""oeis:A072097"">A072097</a></span>). The unit was formerly an <a href=""https://en.wikipedia.org/wiki/SI_supplementary_unit"" class=""mw-redirect"" title=""SI supplementary unit"">SI supplementary unit</a>, but this category was abolished in 1995 and the radian is now considered an <a href=""https://en.wikipedia.org/wiki/SI_derived_unit"" title=""SI derived unit"">SI derived unit</a>.<sup id=""cite_ref-83"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus#cite_note-83"">&#91;79&#93;</a></sup>  Separately, the SI unit of <a href=""https://en.wikipedia.org/wiki/Solid_angle"" title=""Solid angle"">solid angle</a> measurement is the <a href=""https://en.wikipedia.org/wiki/Steradian"" title=""Steradian"">steradian</a> ."
-"<a href=""https://en.wikipedia.org/wiki/Ratio_test"" title=""Ratio test"">Ratio test</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Reciprocal_function"" class=""mw-redirect"" title=""Reciprocal function"">Reciprocal function</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Reciprocal_rule"" title=""Reciprocal rule"">Reciprocal rule</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Riemann_integral"" title=""Riemann integral"">Riemann integral</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Related_rates"" title=""Related rates"">Related rates</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Classification_of_discontinuities#Removable_discontinuity"" title=""Classification of discontinuities"">Removable discontinuity</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Rolle%27s_theorem"" title=""Rolle&#39;s theorem"">Rolle's theorem</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Root_test"" title=""Root test"">Root test</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Scalar_(mathematics)"" title=""Scalar (mathematics)"">Scalar</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Secant_line"" title=""Secant line"">Secant line</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Second-degree_polynomial"" class=""mw-redirect"" title=""Second-degree polynomial"">Second-degree polynomial</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Second_derivative"" title=""Second derivative"">Second derivative</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Second_derivative#Second_derivative_test"" title=""Second derivative"">Second derivative test</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Differential_equation#Equation_order"" title=""Differential equation"">Second-order differential equation</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Series_(mathematics)"" title=""Series (mathematics)"">Series</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Shell_integration"" title=""Shell integration"">Shell integration</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Simpson%27s_rule"" title=""Simpson&#39;s rule"">Simpson's rule</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Sine"" title=""Sine"">Sine</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Sine_wave"" title=""Sine wave"">Sine wave</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Slope_field"" title=""Slope field"">Slope field</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Squeeze_theorem"" title=""Squeeze theorem"">Squeeze theorem</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Sum_rule_in_differentiation"" class=""mw-redirect"" title=""Sum rule in differentiation"">Sum rule in differentiation</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Sum_rule_in_integration"" class=""mw-redirect"" title=""Sum rule in integration"">Sum rule in integration</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Summation"" title=""Summation"">Summation</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Supplementary_angle"" class=""mw-redirect"" title=""Supplementary angle"">Supplementary angle</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Surface_area"" title=""Surface area"">Surface area</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/System_of_linear_equations"" title=""System of linear equations"">System of linear equations</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/List_of_integrals"" class=""mw-redirect"" title=""List of integrals"">Table of integrals</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Taylor_series"" title=""Taylor series"">Taylor series</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Taylor%27s_theorem"" title=""Taylor&#39;s theorem"">Taylor's theorem</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Tangent"" title=""Tangent"">Tangent</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Degree_of_a_polynomial"" title=""Degree of a polynomial"">Third-degree polynomial</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Third_derivative"" title=""Third derivative"">Third derivative</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Toroid"" title=""Toroid"">Toroid</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Total_differential"" class=""mw-redirect"" title=""Total differential"">Total differential</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Trigonometric_functions"" title=""Trigonometric functions"">Trigonometric functions</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/List_of_trigonometric_identities"" title=""List of trigonometric identities"">Trigonometric identities</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Trigonometric_integral"" title=""Trigonometric integral"">Trigonometric integral</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Trigonometric_substitution"" title=""Trigonometric substitution"">Trigonometric substitution</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Trigonometry"" title=""Trigonometry"">Trigonometry</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Triple_integral"" class=""mw-redirect"" title=""Triple integral"">Triple integral</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Upper_and_lower_bounds#Bounds_of_functions"" title=""Upper and lower bounds"">Upper bound</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Variable_(mathematics)"" title=""Variable (mathematics)"">Variable</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics)"" title=""Vector (mathematics and physics)"">Vector</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Vector_calculus"" title=""Vector calculus"">Vector calculus</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Disc_integration#Washer_method"" title=""Disc integration"">Washer</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Disc_integration#Washer_method"" title=""Disc integration"">Washer method</a>" (Wikipedia Glossary of Calculus)|"TODO"
-"<a href=""https://en.wikipedia.org/wiki/Zero_vector"" class=""mw-redirect"" title=""Zero vector"">Zero vector</a>" (Wikipedia Glossary of Calculus)|"TODO"
+"<a href=""https://en.wikipedia.org/wiki/Ratio_test"" title=""Ratio test"">Ratio test</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Reciprocal_function"" class=""mw-redirect"" title=""Reciprocal function"">Reciprocal function</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Reciprocal_rule"" title=""Reciprocal rule"">Reciprocal rule</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Riemann_integral"" title=""Riemann integral"">Riemann integral</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Related_rates"" title=""Related rates"">Related rates</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Classification_of_discontinuities#Removable_discontinuity"" title=""Classification of discontinuities"">Removable discontinuity</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Rolle%27s_theorem"" title=""Rolle&#39;s theorem"">Rolle's theorem</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Root_test"" title=""Root test"">Root test</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Scalar_(mathematics)"" title=""Scalar (mathematics)"">Scalar</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Secant_line"" title=""Secant line"">Secant line</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Second-degree_polynomial"" class=""mw-redirect"" title=""Second-degree polynomial"">Second-degree polynomial</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Second_derivative"" title=""Second derivative"">Second derivative</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Second_derivative#Second_derivative_test"" title=""Second derivative"">Second derivative test</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Differential_equation#Equation_order"" title=""Differential equation"">Second-order differential equation</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Series_(mathematics)"" title=""Series (mathematics)"">Series</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Shell_integration"" title=""Shell integration"">Shell integration</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Simpson%27s_rule"" title=""Simpson&#39;s rule"">Simpson's rule</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Sine"" title=""Sine"">Sine</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Sine_wave"" title=""Sine wave"">Sine wave</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Slope_field"" title=""Slope field"">Slope field</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Squeeze_theorem"" title=""Squeeze theorem"">Squeeze theorem</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Sum_rule_in_differentiation"" class=""mw-redirect"" title=""Sum rule in differentiation"">Sum rule in differentiation</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Sum_rule_in_integration"" class=""mw-redirect"" title=""Sum rule in integration"">Sum rule in integration</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Summation"" title=""Summation"">Summation</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Supplementary_angle"" class=""mw-redirect"" title=""Supplementary angle"">Supplementary angle</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Surface_area"" title=""Surface area"">Surface area</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/System_of_linear_equations"" title=""System of linear equations"">System of linear equations</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/List_of_integrals"" class=""mw-redirect"" title=""List of integrals"">Table of integrals</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Taylor_series"" title=""Taylor series"">Taylor series</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Taylor%27s_theorem"" title=""Taylor&#39;s theorem"">Taylor's theorem</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Tangent"" title=""Tangent"">Tangent</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Degree_of_a_polynomial"" title=""Degree of a polynomial"">Third-degree polynomial</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Third_derivative"" title=""Third derivative"">Third derivative</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Toroid"" title=""Toroid"">Toroid</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Total_differential"" class=""mw-redirect"" title=""Total differential"">Total differential</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Trigonometric_functions"" title=""Trigonometric functions"">Trigonometric functions</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/List_of_trigonometric_identities"" title=""List of trigonometric identities"">Trigonometric identities</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Trigonometric_integral"" title=""Trigonometric integral"">Trigonometric integral</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Trigonometric_substitution"" title=""Trigonometric substitution"">Trigonometric substitution</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Trigonometry"" title=""Trigonometry"">Trigonometry</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Triple_integral"" class=""mw-redirect"" title=""Triple integral"">Triple integral</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Upper_and_lower_bounds#Bounds_of_functions"" title=""Upper and lower bounds"">Upper bound</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Variable_(mathematics)"" title=""Variable (mathematics)"">Variable</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics)"" title=""Vector (mathematics and physics)"">Vector</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Vector_calculus"" title=""Vector calculus"">Vector calculus</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Disc_integration#Washer_method"" title=""Disc integration"">Washer</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Disc_integration#Washer_method"" title=""Disc integration"">Washer method</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"<a href=""https://en.wikipedia.org/wiki/Zero_vector"" class=""mw-redirect"" title=""Zero vector"">Zero vector</a>" (Wikipedia Glossary of Calculus)|"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Calculus-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_calculus"">""Glossary of calculus""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
